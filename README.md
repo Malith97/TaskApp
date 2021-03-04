@@ -1,2 +1,2 @@
 # TaskApp
- Task App React Native
+ Task App React Native.
